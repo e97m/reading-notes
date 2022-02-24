@@ -1,5 +1,7 @@
 # reading-notes
 
+To visit the repo page please [click here](https://e97m.github.io/reading-notes) 
+
 Hi... I am Emad Almajdalawi. This site contains my comments on the readings this course.
 
  >"Set yourself a small, finishable challenge that teaches you something further outside your comfort zone." [[1]](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)
