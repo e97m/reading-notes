@@ -1,5 +1,3 @@
-# reading-notes
-
 # The Growth Mindset
 
 ## Upgrade your technical skills with deliberate practice
