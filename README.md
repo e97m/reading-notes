@@ -11,7 +11,7 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 
 | Day | Title |
 | ----------- | ----------- |
-| 0 | [The Growth Mindset](https://github.com/e97m/reading-notes/the-growth-mindset) |
+| 0 | [The Growth Mindset](https://github.com/e97m/reading-notes/blob/main/The%20Growth%20Mindset.md) |
 | 0 |  |
 |1|  |
 
