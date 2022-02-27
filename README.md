@@ -22,11 +22,11 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 
 ### Table of contents
 
-| Day | Title |
+| Class | Title |
 | ----------- | ----------- |
 | 0 | [The Growth Mindset](https://github.com/e97m/reading-notes/blob/main/The%20Growth%20Mindset.md) |
 | 0 | [Python Core](https://github.com/e97m/reading-notes/blob/main/Python%20core.md) |
 |0| [Practice in the Terminal](https://github.com/e97m/reading-notes/blob/main/Practice%20in%20the%20Terminal.md) |
 |0| [SQL Practice](https://github.com/e97m/reading-notes/blob/main/SQL%20Practice.md) |
 |1| [BigO and Python Invironment](https://github.com/e97m/reading-notes/blob/main/BigO%20and%20Python%20Invironment.md) |
-|2||
+|2|[main and TDD](https://github.com/e97m/reading-notes/blob/main/main%20and%20TDD.md)|
