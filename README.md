@@ -30,3 +30,5 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 |0| [SQL Practice](SQL-Practice.md) |
 |1| [BigO and Python Invironment](BigO-and-Python-Invironment.md) |
 |2|[main and TDD](main-and-TDD.md)|
+|3|[Exceptions in Python](Exceptions.md)
+|3|[Read and Write files](Read-and-Write-Files.md)|
