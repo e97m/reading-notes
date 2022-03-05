@@ -32,3 +32,5 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 |2|[main and TDD](main-and-TDD.md)|
 |3|[Exceptions in Python](Exceptions.md)
 |3|[Read and Write files](Read-and-Write-Files.md)|
+|4|[Classes, Objects, and Recursive](Classes-Objects-and-recurisve.md)|
+|4|[pytest](pytest.md)|
