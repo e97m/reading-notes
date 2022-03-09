@@ -34,3 +34,6 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 |3|[Read and Write files](Read-and-Write-Files.md)|
 |4|[Classes, Objects, and Recursive](Classes-Objects-and-recurisve.md)|
 |4|[pytest](pytest.md)|
+|5|[Bigo, Linked Lists](BigO.md)
+|5|[Linked Lists](Linked-Lists.md)|
+|6||
