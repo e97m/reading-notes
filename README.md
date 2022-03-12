@@ -24,16 +24,17 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 
 | Class | Title |
 | ----------- | ----------- |
-| 0 | [The Growth Mindset](The-Growth-Mindset.md) |
-| 0 | [Python Core](Python-core.md) |
-|0| [Practice in the Terminal](Practice-in-the-Terminal.md) |
-|0| [SQL Practice](SQL-Practice.md) |
-|1| [BigO and Python Invironment](BigO-and-Python-Invironment.md) |
-|2|[main and TDD](main-and-TDD.md)|
-|3|[Exceptions in Python](Exceptions.md)
-|3|[Read and Write files](Read-and-Write-Files.md)|
-|4|[Classes, Objects, and Recursive](Classes-Objects-and-recurisve.md)|
-|4|[pytest](pytest.md)|
-|5|[Bigo, Linked Lists](BigO.md)
-|5|[Linked Lists](Linked-Lists.md)|
-|6||
+|0| [The Growth Mindset](0-The-Growth-Mindset.md) |
+|0| [Python Core](0-Python-core.md) |
+|0| [Practice in the Terminal](0-Practice-in-the-Terminal.md) |
+|0| [SQL Practice](0-SQL-Practice.md) |
+|1| [BigO and Python Invironment](1-BigO-and-Python-Invironment.md) |
+|2|[main and TDD](2-main-and-TDD.md)|
+|3|[Exceptions in Python](3-Exceptions.md)
+|3|[Read and Write files](3-Read-and-Write-Files.md)|
+|4|[Classes, Objects, and Recursive](4-Classes-Objects-and-recurisve.md)|
+|4|[pytest](4-pytest.md)|
+|5|[Bigo, Linked Lists](5-BigO.md)
+|5|[Linked Lists](5-Linked-Lists.md)|
+|6|[6-Test Coverage, Risk Analysis, Random](6-TestCoverage-RiskAnalysis-Random.md)|
+|7||
