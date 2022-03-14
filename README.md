@@ -37,4 +37,4 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 |5|[Bigo, Linked Lists](5-BigO.md)
 |5|[Linked Lists](5-Linked-Lists.md)|
 |6|[6-Test Coverage, Risk Analysis, Random](6-TestCoverage-RiskAnalysis-Random.md)|
-|7||
+|7|[7-Scope](7-Scope.md)|
