@@ -1,6 +1,6 @@
 # List Comprehensions
 
-List comprehensions is a shortcut method that is easear and more readable which save time to the developer and who read the code after him. The syntax is like: in `my_new_list` I want `expression` repeated using `for item in list`. The expression could be a vaiable, a variable multiplied by somthing, a tuple, a function, ets... 
+List comprehensions are a shortcut method that is easier and more readable which saves time for the developer and who read the code after him. The syntax is like: in `my_new_list` I want `expression` repeated using `for item in list`. The expression could be a variable, a variable multiplied by something, a tuple, a function, etc... 
 
 ```Python:
 my_new_list = [ expression for item in list ]
@@ -12,7 +12,7 @@ it’s possible to add conditional statements in the form of filters, which allo
 my_new_list = [ expression for item in list if condition ]
 ```
 
-it’s also possible to add nested loop, in comprehensions:
+it’s also possible to add nested loops, in comprehensions:
 
 ```Python:
 my_new_list = [ expression for item in list for item2 in list2 ]
