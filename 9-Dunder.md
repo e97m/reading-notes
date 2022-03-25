@@ -45,7 +45,7 @@ class Account:
 
 To provide a string representation of your object for the consumer of your class. There are two ways to do this using dunder methods:
 
-1. `__repr__`: The “official” string representation of an object. This is how you would make an object of the class. The goal of __repr__ is to be unambiguous.
+1. `__repr__`: The “official” string representation of an object. This is how you would make an object of the class. The goal of `__repr__` is to be unambiguous.
 2. `__str__`: The “informal” or nicely printable string representation of an object. This is for the enduser.
 
 ```Python:
@@ -60,7 +60,7 @@ class Account:
             self.owner, self.amount)
 ```
 
-If you don’t want to hardcode "Account" as the name for the class you can also use self.__class__.__name__ to access it programmatically.
+If you don’t want to hardcode "Account" as the name for the class you can also use `self.__class__.__name__` to access it programmatically.
 
 <br>
 
@@ -143,7 +143,7 @@ False
 
 To spicefy what is the item that should be concatenated when add two object from that type with each other.
 
-Let’s implement __add__ to be able to merge two accounts. The expected behavior would be to merge all attributes together: the owner name, as well as starting amounts and transactions. To do this we can benefit from the iteration support we implemented earlier:
+Let’s implement `__add__` to be able to merge two accounts. The expected behavior would be to merge all attributes together: the owner name, as well as starting amounts and transactions. To do this we can benefit from the iteration support we implemented earlier:
 
 ```Python:
 def __add__(self, other):
@@ -178,7 +178,7 @@ def __add__(self, other):
 
 ### 6. Callable Python Objects: `__call__`:
 
-You can make an object callable like a regular function by adding the __call__ dunder method. The downside of having a __call__ method on your objects is that it can be hard to see what the purpose of calling the object is.
+You can make an object callable like a regular function by adding the `__call__` dunder method. The downside of having a `__call__` method on your objects is that it can be hard to see what the purpose of calling the object is.
 
 ```Python:
 def __call__(self):

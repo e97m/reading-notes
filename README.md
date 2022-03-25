@@ -42,3 +42,4 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 |8|[Decorators](8-Decorators.md)
 |9|[Dunder](9-Dunder.md)|
 |9|[Statistics](9-Statistics.md)|
+|10|[Stacks and Queues](10-Stacks-and-Queues.md)|
