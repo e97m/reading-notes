@@ -40,14 +40,16 @@ A stack is a data structure that consists of Nodes. Each Node references the nex
 
 - `Enqueue`: Nodes or items that are added to the queue.
 - `Dequeue`: Nodes or items that are removed from the queue. If called when the queue is empty an exception will be raised.
-- `Front`: This is the front/first Node of the queue.
-- `Rear`: This is the rear/last Node of the queue.
+- `Front`: This is the front/first node of the queue.
+- `Rear`: This is the rear/last node of the queue.
 - `Peek`: When you peek you will view the value of the front Node in the queue. If called when the queue is empty an exception will be raised.
+
+<br>
 
 ## Edit the Queue:
 
 - `Enqueue` O(1): 
-    1. Change the `next` property of the node tou want to add before to point to the node we are adding.
+    1. Change the `next` property of the node you want to add before to pointing the node we are adding.
     2. Re-assign the rear reference to point to the new node.
 
 - `Dequeue` O(1): Typically, you would check `isEmpty` before conducting a `dequeue`. This will ensure that an exception is not raised. Alternately, you can wrap the call in a `try/catch` block.
@@ -55,7 +57,7 @@ A stack is a data structure that consists of Nodes. Each Node references the nex
     2. Re-assign front to the next value that the Node front is referencing.
     3. Return the value of the temp Node that was just removed.
 
-- `Peek` O(1): When conducting a peek, you will only be inspecting the front Node of the queue. Typically, you want to check isEmpty before conducting a peek. This will ensure that an exception is not raised. Alternately, you can wrap the call in a try/catch block. We do not re-assign the next property when we peek because we want to keep the reference to the next Node in the queue. This will allow the front to stay in the front until we decide to dequeue
+- `Peek` O(1): When conducting a peek, you will only be inspecting the front node of the queue. Typically, you want to check isEmpty before conducting a peek. This will ensure that an exception is not raised. Alternately, you can wrap the call in a try/catch block. We do not re-assign the next property when we peek because we want to keep the reference to the next Node in the queue. This will allow the front to stay in the front until we decide to dequeue
 
 <br>
 
