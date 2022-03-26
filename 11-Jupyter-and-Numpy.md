@@ -20,7 +20,7 @@ JupyterLab extensions can customize or enhance any part of JupyterLab, including
 
 JupyterLab is served from the same server and uses the same notebook document format as the classic Jupyter Notebook.
 
-## [Reference](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
+### [Reference](https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html)
 
 <br>
 
@@ -70,4 +70,4 @@ You can use the numpy.ndarray.astype method to convert an array to a different t
 
 <br>
 
-## Read more from the [reference](https://www.dataquest.io/blog/numpy-tutorial-python/)
+### Read more from the [reference](https://www.dataquest.io/blog/numpy-tutorial-python/)
