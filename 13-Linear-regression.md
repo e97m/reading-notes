@@ -163,5 +163,5 @@ Fit a model X_train, and calculate MSE with Y_train: 19.5467584735 Fit a model X
 Residual Plots
 Residual plots are a good way to visualize the errors in your data. If you have done a good job then your data should be randomly scattered around line zero. If you see structure in your data, that means your model is not capturing some thing. Maye be there is a interaction between 2 variables that you are not considering, or may be you are measuring time dependent data. If you get some structure in your data, you should go back to your model and check whether you are doing a good job with your parameters.
 
-Plt scatter
+[Reference](https://bigdata-madesimple.com/how-to-run-linear-regression-in-python-scikit-learn/)
 

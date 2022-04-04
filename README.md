@@ -45,3 +45,4 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 |10|[Stacks and Queues](10-Stacks-and-Queues.md)|
 |11|[Jupyter and Numpy](11-Jupyter-and-Numpy.md)|
 |12|[Linear regression](13-Linear-regression.md)|
+|13|[Matplotlib-seaborn-Bokeh](14-Matplotlib-seaborn-Bokeh.md)
