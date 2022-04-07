@@ -44,5 +44,7 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 |9|[Statistics](9-Statistics.md)|
 |10|[Stacks and Queues](10-Stacks-and-Queues.md)|
 |11|[Jupyter and Numpy](11-Jupyter-and-Numpy.md)|
-|12|[Linear regression](13-Linear-regression.md)|
-|13|[Matplotlib-seaborn-Bokeh](14-Matplotlib-seaborn-Bokeh.md)
+|12|[Pandas](12-pandas.md)
+|13|[Linear regression](13-Linear-regression.md)|
+|14|[Matplotlib-seaborn-Bokeh](14-Matplotlib-seaborn-Bokeh.md)
+|15|[Trees](15-trees.md)
