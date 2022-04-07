@@ -71,3 +71,5 @@ ALGORITHM postOrder(root)
 
     OUTPUT <-- root.value
 ```
+
+[Reference](https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-15/resources/Trees.html)
