@@ -1,6 +1,6 @@
 # reading-notes
 
-To visit the repo page please [click here](https://e97m.github.io/reading-notes) 
+To visit the repo page please [click here](https://emad-almajdalawi.github.io/reading-notes) 
 
 Hi... I am Emad Almajdalawi. This site contains my comments on the readings this course.
 
@@ -50,4 +50,3 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 |15|[Trees](15-trees.md)
 |16|[Serverless](16-Serverless.md)
 |17|[Web Scraping](17-web_scraping.md)
-|18||
