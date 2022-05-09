@@ -50,3 +50,5 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 |15|[Trees](15-trees.md)
 |16|[Serverless](16-Serverless.md)
 |17|[Web Scraping](17-web_scraping.md)
+|26|[Intoduction to Dgango ](26-Introduction-to-Django.md)
+|27|[Django Models](27-Django-Models.md)
