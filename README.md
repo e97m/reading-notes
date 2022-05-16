@@ -53,4 +53,4 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 |26|[Intoduction to Dgango](26-Introduction-to-Django.md)
 |27|[Django Models](27-Django-Models.md)
 |28|[Django CRUD](28-Django-CRUD.md)
-|29|
+|29|[Custom User Model](29-Custom-User-Model.md)
