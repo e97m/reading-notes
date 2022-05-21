@@ -55,3 +55,5 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 |28|[Django CRUD](28-Django-CRUD.md)
 |29|[Custom User Model](29-Custom-User-Model.md)
 |30|[Hash Table](30-Hash_Table.md)
+|31|[Django REST](31-Django-REST.md)
+|31|[Docker](31-Docker.md)
