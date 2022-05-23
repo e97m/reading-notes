@@ -57,3 +57,4 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 |30|[Hash Table](30-Hash_Table.md)
 |31|[Django REST](31-Django-REST.md)
 |31|[Docker](31-Docker.md)
+|32|[Permissions](32-Permissions.md)
