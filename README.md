@@ -64,3 +64,4 @@ Hi... I am Emad Almajdalawi. This site contains my comments on the readings this
 |35|[Graphs](35-Graphs.md)
 |36|[Whiteboard and Interview](36-whiteboard-and-interview.md)
 |37|[React 1: Next.JS and Tailwind](37-React1.md)
+|38|[React 2](38-React2.md)
